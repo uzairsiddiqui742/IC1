@@ -1,2 +1,3 @@
 # IC1
 Repo made for Intro to Computing class Tue/Thu Section
+This is the place where various miscelaneious files will be kept to learn about GitHub ...
